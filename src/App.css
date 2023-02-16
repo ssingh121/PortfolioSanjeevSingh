@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700');
+
+* {
+  /* margin-bottom: 0.5rem; */
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-weight: 700 !important;
+  /* color: #1b80e4; */
+  color: rgb(49, 6, 220);
+}
+
+section {
+  min-height: 100vh;
+  padding-top: 80px;
+}
+
+.btn {
+  color: #769fb6 !important;
+  border-color: #769fb6 !important;
+}
+
+.btn:hover {
+  color: white !important;
+  background-color: #769fb6 !important;
+}

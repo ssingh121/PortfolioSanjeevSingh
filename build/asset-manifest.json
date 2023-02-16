@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/PortfolioSanjeevSingh/static/css/main.a7c641a1.css",
+    "main.js": "/PortfolioSanjeevSingh/static/js/main.1ef93bf0.js",
+    "static/js/787.c78a8ab9.chunk.js": "/PortfolioSanjeevSingh/static/js/787.c78a8ab9.chunk.js",
+    "static/media/isro.jpg": "/PortfolioSanjeevSingh/static/media/isro.f36c7277edb62cd238bf.jpg",
+    "static/media/heritage-app.png": "/PortfolioSanjeevSingh/static/media/heritage-app.5cd489c2783edc7869d4.png",
+    "static/media/thanku-app.png": "/PortfolioSanjeevSingh/static/media/thanku-app.aa38bf9cd8a4f8ca3f9b.png",
+    "static/media/amazon-app.png": "/PortfolioSanjeevSingh/static/media/amazon-app.3569a2b308d6bc49726e.png",
+    "static/media/me2.png": "/PortfolioSanjeevSingh/static/media/me2.a1cb6fdf21837f7846a7.png",
+    "static/media/feedback-app.png": "/PortfolioSanjeevSingh/static/media/feedback-app.d60eb657f23041bc865e.png",
+    "static/media/hackerrank_java.jpg": "/PortfolioSanjeevSingh/static/media/hackerrank_java.6116a10ac4926235a7d7.jpg",
+    "static/media/shopping-app.png": "/PortfolioSanjeevSingh/static/media/shopping-app.44cb498f507a614e907b.png",
+    "static/media/chat-app.png": "/PortfolioSanjeevSingh/static/media/chat-app.14e4f47a7cb070b1fdbe.png",
+    "static/media/bank-app.png": "/PortfolioSanjeevSingh/static/media/bank-app.58a3305b5fcda14bd656.png",
+    "static/media/uiet.jpg": "/PortfolioSanjeevSingh/static/media/uiet.cf31015fa9d782be51c4.jpg",
+    "static/media/spark.jpg": "/PortfolioSanjeevSingh/static/media/spark.74f759f4941944c9d606.jpg",
+    "static/media/internshala.jpg": "/PortfolioSanjeevSingh/static/media/internshala.d419bcbec68ac4f52239.jpg",
+    "static/media/nit_mijoram.jpg": "/PortfolioSanjeevSingh/static/media/nit_mijoram.846a9507a568baa615aa.jpg",
+    "static/media/unicompiler.jpg": "/PortfolioSanjeevSingh/static/media/unicompiler.916a4a004e2b5818be49.jpg",
+    "static/media/tcs.jpg": "/PortfolioSanjeevSingh/static/media/tcs.4be3cd34a37b640a8d20.jpg",
+    "static/media/flipkart.jpg": "/PortfolioSanjeevSingh/static/media/flipkart.9e22a77395aefae46b17.jpg",
+    "static/media/codechef.jpg": "/PortfolioSanjeevSingh/static/media/codechef.16d7c543d2bc40104b80.jpg",
+    "static/media/accenture.jpg": "/PortfolioSanjeevSingh/static/media/accenture.cc238b07b6608953b5f8.jpg",
+    "static/media/udemy.jpg": "/PortfolioSanjeevSingh/static/media/udemy.c56bcc6c4c697f3edb6d.jpg",
+    "static/media/todo-app.png": "/PortfolioSanjeevSingh/static/media/todo-app.cae1347a3d03f6065e2f.png",
+    "static/media/bg.jpg": "/PortfolioSanjeevSingh/static/media/bg.df7809c7193791ae06b2.jpg",
+    "static/media/logo.png": "/PortfolioSanjeevSingh/static/media/logo.1f5b6c812086fb307fa5.png",
+    "index.html": "/PortfolioSanjeevSingh/index.html",
+    "main.a7c641a1.css.map": "/PortfolioSanjeevSingh/static/css/main.a7c641a1.css.map",
+    "main.1ef93bf0.js.map": "/PortfolioSanjeevSingh/static/js/main.1ef93bf0.js.map",
+    "787.c78a8ab9.chunk.js.map": "/PortfolioSanjeevSingh/static/js/787.c78a8ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c641a1.css",
+    "static/js/main.1ef93bf0.js"
+  ]
+}
