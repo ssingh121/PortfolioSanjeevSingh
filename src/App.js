@@ -11,7 +11,7 @@ import Domain from "./Components/Maincontaint/Domain/Domain";
 import Projects from "./Components/Maincontaint/Projects/Projects";
 import Skills from "./Components/Maincontaint/Skills/Skills";
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route, BrowserRouter } from "react-router-dom";
 
 
  
@@ -19,7 +19,11 @@ function App() {
   return (
     <div className="App">
     
-    <BrowserRouter>
+    {/* basename used here to deal with BrowserRouter routing but it not able to deal problem of refreshpage on git pages */}
+    {/* <BrowserRouter basename="/PortfolioSanjeevSingh"></BrowserRouter> */}
+
+    {/* hashrouter can easily deal routing as well as page refreshing */}
+    <HashRouter>
     <Navbar/>
       <Routes>
         <Route >
@@ -35,7 +39,7 @@ function App() {
         </Route>
       </Routes>
       <Footer/>
-    </BrowserRouter>  
+    </HashRouter>  
       
     </div>
   );
