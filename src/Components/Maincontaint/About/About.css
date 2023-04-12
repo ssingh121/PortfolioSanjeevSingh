@@ -113,11 +113,11 @@
     margin-right: 15px;
     margin-top: 10px;
 }
- .btn:hover{
+ /* .btn:hover{
     transform: scale(1.05);
     -webkit-transform: scale(1.05);
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
-}
+} */
 .about .about-con .skills{
     -ms-flex: 0 0 40%;
     flex: 0 0 40%;

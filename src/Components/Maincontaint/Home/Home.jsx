@@ -13,7 +13,7 @@ function Home() {
   return (
     <div id="Home" className="d-flex flex-column hh">
       <div className="center">
-        <img src={logo} alt="avatar" className="photo mb-2" />
+        <img src={logo} alt="avatar" className="photo mb-2"  />
 
         <TypeAnimation
           cursor={true}

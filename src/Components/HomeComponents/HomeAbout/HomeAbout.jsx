@@ -63,7 +63,7 @@ function About() {
               <div className="row">
                 <div className="buttons">
                   <a
-                    href="https://drive.google.com/file/d/1W2nJhUQFxQx9HICm1tRPdIsgJt9LmafG/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1LyqT2TgwLm5QL-ZsFK5lPjqmLQHAFfgQ/view?usp=share_link"
                     target="_blank"
                     className="btn"
                   >
