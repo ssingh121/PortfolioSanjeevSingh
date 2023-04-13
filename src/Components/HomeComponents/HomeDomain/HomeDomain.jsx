@@ -45,7 +45,7 @@ function Domain() {
               </div>
             </div>
             <div className="row" style={{ justifyContent:"center" , padding:"50px" }} >               
-                  <Link to="/domain" className="btn" style={{ maxWidth:"100%" }}>View More..</Link>
+                  <Link to="/domain" className="btn" style={{ maxWidth:"100%" }}>View More Domains..</Link>
             </div>
           </div> 
         </section>

@@ -57,7 +57,7 @@ function Certificates() {
         </div>
         <div className="row" style={{ justifyContent:"center" , padding:"50px" }}>
           <Link to="/certificates" className="btn" style={{ maxWidth:"98%" }}>
-            View More..
+            View More Certification..
           </Link>
         </div>
       </div>

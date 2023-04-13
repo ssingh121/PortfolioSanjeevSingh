@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioSanjeevSingh/static/css/main.a7c641a1.css",
-    "main.js": "/PortfolioSanjeevSingh/static/js/main.0d136c7e.js",
+    "main.css": "/PortfolioSanjeevSingh/static/css/main.86542ffc.css",
+    "main.js": "/PortfolioSanjeevSingh/static/js/main.b8687214.js",
     "static/js/787.c78a8ab9.chunk.js": "/PortfolioSanjeevSingh/static/js/787.c78a8ab9.chunk.js",
     "static/media/isro.jpg": "/PortfolioSanjeevSingh/static/media/isro.f36c7277edb62cd238bf.jpg",
     "static/media/heritage-app.png": "/PortfolioSanjeevSingh/static/media/heritage-app.5cd489c2783edc7869d4.png",
@@ -27,12 +27,12 @@
     "static/media/bg.jpg": "/PortfolioSanjeevSingh/static/media/bg.df7809c7193791ae06b2.jpg",
     "static/media/logo.png": "/PortfolioSanjeevSingh/static/media/logo.1f5b6c812086fb307fa5.png",
     "index.html": "/PortfolioSanjeevSingh/index.html",
-    "main.a7c641a1.css.map": "/PortfolioSanjeevSingh/static/css/main.a7c641a1.css.map",
-    "main.0d136c7e.js.map": "/PortfolioSanjeevSingh/static/js/main.0d136c7e.js.map",
+    "main.86542ffc.css.map": "/PortfolioSanjeevSingh/static/css/main.86542ffc.css.map",
+    "main.b8687214.js.map": "/PortfolioSanjeevSingh/static/js/main.b8687214.js.map",
     "787.c78a8ab9.chunk.js.map": "/PortfolioSanjeevSingh/static/js/787.c78a8ab9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7c641a1.css",
-    "static/js/main.0d136c7e.js"
+    "static/css/main.86542ffc.css",
+    "static/js/main.b8687214.js"
   ]
 }

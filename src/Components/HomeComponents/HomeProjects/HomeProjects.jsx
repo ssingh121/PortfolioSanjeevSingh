@@ -97,7 +97,7 @@ function Projects() {
           </Row>
           </Container>
         <Row className="row" style={{ justifyContent:"center" , padding:"50px" }} >               
-                  <Link to="/projects" className="btn" style={{ maxWidth:"87%" }}>View More..</Link>
+                  <Link to="/projects" className="btn" style={{ maxWidth:"87%" }}>View More Projects..</Link>
         </Row>
         </Container>
     </div>
